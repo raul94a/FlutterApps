@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
             backgroundColor: Color.fromRGBO(48, 43, 99, 1),
             titleTextStyle: TextStyle(
               fontFamily: 'OpenSans',
-              fontSize: 22,
+              fontSize: 23,
               fontWeight: FontWeight.bold,
             )),
         textTheme: TextTheme(
